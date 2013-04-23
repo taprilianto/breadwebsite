@@ -10,5 +10,6 @@ echo "Line 7";
 
 écho "Tue 23 Apr 2013<br/>";
 echo "Learn Branch and Versioning";
+echo "Step 1 is done<br/>";
 
 ?>
